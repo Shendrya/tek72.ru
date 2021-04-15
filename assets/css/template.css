@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Roboto", sans-serif;
-    background: url(./assets/Images/bkg.jpg) center top repeat-y #f7f7f7;
+    background: url(../Images/bkg.jpg) center top repeat-y #f7f7f7;
     background-size: 100% auto;
 }
 .wrap-1000 {
